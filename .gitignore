@@ -1,0 +1,24 @@
+# Environment variables & secrets (NEVER commit .env)
+.env
+
+# Local vector database & uploaded temp files
+chroma_db/
+chroma_data/
+temp/
+documents/*.pdf
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Testing & IDE caches
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+

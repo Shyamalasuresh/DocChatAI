@@ -1,0 +1,7 @@
+python-dotenv
+pymupdf
+sentence-transformers
+chromadb
+google-generativeai
+streamlit
+pytest
